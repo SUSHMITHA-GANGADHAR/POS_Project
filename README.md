@@ -13,8 +13,8 @@ A production-ready Retail ERP system built with Flask, Vanilla JS, and Supabase.
 ## 🛠️ Setup Instructions
 
 ### 1. Supabase Setup
-1. Create a project.
-2. Go to the SQL Editor and run the schema .
+1. Create a project at [supabase.com](https://supabase.com).
+2. Go to the SQL Editor and run the schema found in `implementation_plan.md`.
 3. Enable Email/Password Auth in the Authentication settings.
 4. Add some initial categories in the `categories` table (e.g., Electronics, Groceries).
 
